@@ -1,16 +1,10 @@
 # Part 1
-### a)
+(Pokemon), (Name of .txt file), (grep command to retrieve):
 
-
-
-
-### b)
-
-
-
-### c)
-
-
+Found in Forest(filescan 001):
+Butterfree - butterfree001.txt -  ggrep -P "free" filescan_00.1 > butterfree001.txt;
+Beedrill - beedrill001.txt - ggrep -P "bee" filescan_00.1 > beedrill001.txt;
+Bulbasaur - bulbasaur001.txt - ggrep -P "bulb" filescan_00.1 > bulbasaur001.txt;
 
 
 
