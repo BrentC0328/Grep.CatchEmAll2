@@ -5,6 +5,20 @@ Found in Forest(filescan 001):
 Butterfree - butterfree001.txt -  ggrep -P "free" filescan_00.1 > butterfree001.txt;
 Beedrill - beedrill001.txt - ggrep -P "bee" filescan_00.1 > beedrill001.txt;
 Bulbasaur - bulbasaur001.txt - ggrep -P "bulb" filescan_00.1 > bulbasaur001.txt;
+Blastoise - blastoise001.txt - ggrep -P "blas" filescan_00.1 > blastoise001.txt;
+
+
+Found in Forest(filescan 002):
+Charizard - charizard002.txt - ggrep -P "izard" filescan_00.2 > charizard002.txt
+Charmeleon - charmeleon002.txt - ggrep -P "meleon" filescan_00.2 > charmeleon002.txt
+Charmander - charmander002.txt -ggrep -P "mander" filescan_00.2 > charmander002.txt
+
+
+Found in Forest(filescan 003):
+
+
+
+Found in Forest(filescan 004)
 
 
 
