@@ -15,6 +15,10 @@ Charmander - charmander002.txt -ggrep -P "mander" filescan_00.2 > charmander002.
 
 
 Found in Forest(filescan 003):
+ivysaur - ivysaur003.txt - ggrep -P "meow" filescan_00.3 > ivysaur.txt;
+Jigglypuff - jigglypuff003.txt -ggrep -P "meow" filescan_00.3 > jigglypuff003.txt;
+Meowth(thats right) - meowth003.txt - ggrep -P "meow" filescan_00.3 > meowth003.txt;
+Pikachu - pikachu003.txt - ggrep -P "meow" filescan_00.3 > pikachu003.txt;
 
 
 
