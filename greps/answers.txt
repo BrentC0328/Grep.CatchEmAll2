@@ -23,6 +23,11 @@ Pikachu - pikachu003.txt - ggrep -P "meow" filescan_00.3 > pikachu003.txt;
 
 
 Found in Forest(filescan 004)
+Psyduck - psyduck004.txt - ggrep -P "psyd" filescan_00.4 > psyduck004.txt;
+Squirtle - squirtle004.txt - ggrep -P "squi" filescan_00.4 > squirtle004.txt;
+Venusaur - venusaur004.txt - ggrep -P "venu" filescan_00.4 > venusaur004.txt;
+Wartortle - wartortle004.txt - ggrep -P "wart" filescan_00.4 > wartortle004.txt;
+
 
 
 
@@ -35,16 +40,39 @@ Found in Forest(filescan 004)
 
 
 # Part 2
+
 ### a)
 
-
+I used the below code in part b to print out a list of all pokemon then I just counted the list.
 
 
 
 
 ### b)
+I used the command
 
+find . -type f | xargs wc -l
 
+to find the number of lines and have them counted to see the three biggest pokemon by lines.
+
+Pikachu, Charizard and Beedrill turned out to be the biggest 3.
+
+      37 ./wartortle004.txt
+      38 ./blastoise001.txt
+      40 ./pikachu003.txt
+      36 ./charmander002.txt
+      34 ./jigglypuff003.txt
+      37 ./charmeleon002.txt
+      32 ./venusaur004.txt
+      40 ./beedrill001.txt
+      33 ./meowth003.txt
+       1 ./instruction.txt
+      34 ./squirtle004.txt
+      40 ./charizard002.txt
+      33 ./ivysaur003.txt
+      38 ./butterfree001.txt
+      37 ./psyduck004.txt
+      30 ./bulbasaur001.txt
 
 
 
